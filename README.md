@@ -19,3 +19,4 @@ In my portfolio, you can find my projects and guides on data analytics.
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)
+- [Resume (PDF)](file:///C:/Users/sophi/Downloads/Analyst%20Resume%20-%20Sophia%20Jenkinson.pdf)
