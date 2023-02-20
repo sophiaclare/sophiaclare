@@ -1,16 +1,21 @@
-### Hi there 👋
+## Introduction
 
-<!--
-**sophiaclare/sophiaclare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Sophia! I am a current postgraduate student at the University of Edinburgh, and future data analyst. I am continually working to improve my technical skills through courses and personal projects.
 
-Here are some ideas to get you started:
+### 📚 Projects 📚
+In my portfolio, you can find my projects and guides on data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 My Skills
+- Data preparation, quality assurance, and analysis
+- Database design and modelling
+- Dashboard development and reporting
+- Exploratory data analysis
+
+### 🛠️ My Tools
+- Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
+- Python: NumPy, Pandas
+- R: Tidyverse
+- Visualisation: Tableau
+
+### 🙌🏻 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)
