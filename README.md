@@ -1,6 +1,10 @@
 ## Introduction
 
-Hi there, I'm Sophia! I am a current postgraduate student at the University of Edinburgh, and future data analyst. I am continually working to improve my technical skills through courses and personal projects.
+I'm Sophia, a data analyst pursuing a Master's degree in Data, Inequality, and Society from the University of Edinburgh, with a strong foundation in data analysis and statistical modeling. At Pacific Lutheran University, I served as a data analyst intern for the Office of Admission, where I conducted exploratory data analysis and utilized R, SQL, and Tableau to inform future admission and marketing strategies for the university.
+
+
+I have participated in several data analysis projects, including an international mathematical modeling contest and the American Statistical Association DataFest. With my proficiency in programming languages such as R, Python, SQL, and Java for data analysis and manipulation, along with my acquired Google Data Analytics Professional Certificate, I bring solid analytical skills and passion for addressing social inequality to any data analysis team.
+
 
 ### 📚 Projects 📚
 In my [portfolio](https://github.com/sophiaclare/data_analysis_portfolio), you can find my projects on data analytics.
