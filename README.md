@@ -3,7 +3,7 @@
 Hi there, I'm Sophia! I am a current postgraduate student at the University of Edinburgh, and future data analyst. I am continually working to improve my technical skills through courses and personal projects.
 
 ### 📚 Projects 📚
-In my portfolio, you can find my projects and guides on data analytics.
+In my [portfolio](https://github.com/sophiaclare/data_analysis_portfolio), you can find my projects on data analytics.
 
 ### 💡 My Skills
 - Data preparation, quality assurance, and analysis
@@ -19,4 +19,4 @@ In my portfolio, you can find my projects and guides on data analytics.
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)
-- [Resume (PDF)](file:///C:/Users/sophi/Downloads/Analyst%20Resume%20-%20Sophia%20Jenkinson.pdf)
+- [Resume](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/Analyst%20Resume%20-%20Sophia%20Jenkinson.pdf)
