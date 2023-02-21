@@ -20,4 +20,4 @@ In my [portfolio](https://github.com/sophiaclare/data_analysis_portfolio), you c
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)
-- [Resume](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/Analyst%20Resume%20-%20Sophia%20Jenkinson.pdf)
+- [Resume](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/_Resume%20-%20Sophia%20Jenkinson%20(1).pdf)
