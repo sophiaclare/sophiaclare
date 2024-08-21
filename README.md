@@ -19,5 +19,5 @@ In my [portfolio](https://github.com/sophiaclare/data_analysis_portfolio), you c
 - Visualisation: Tableau
 
 ### 🙌🏻 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sophia-clare-jenkinson/)
+- [LinkedIn](https://www.linkedin.com/in/sophie--jenkinson/)
 - [Resume](https://github.com/sophiaclare/data_analysis_portfolio/blob/main/_Resume%20-%20Sophia%20Jenkinson%20(1).pdf)
